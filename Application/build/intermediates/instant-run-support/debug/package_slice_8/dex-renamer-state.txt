@@ -1,0 +1,4 @@
+#Fri Jan 12 10:47:41 IST 2018
+base.0=/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

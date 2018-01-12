@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/f59fbc63e9f381ccdc2d79858bfc2d6e969bbf23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c48309778e9e7fa952f1280c5ad4a18fe7883ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/7936c9bbcc236862ccdfbd5e6ae0a23c90de0eff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_706da1f31e1f7f54a2ed029363e9dc45644cb061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/1ffe7646ae72a900bcd6e19074813d18c4e36c52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1147ac105cd6b378051f469d0c6a94383f528e38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/2a873a978b28c12cf9c38a6a06440de2e6339dc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56beb1f0c94978a5cc869b4dddfbe6f58d6faeb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/2be5e52950b0f84da54119102baf8c328815e59c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ceee05f3e57fe70e1f1644b262a0b5ccb4780ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/2d61863567142ac2a0f8bb419c42ac36acc40277/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcfa90eef742625fe6359bdb7e6f0411371c72ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/d222db6de278a1d40a691942946a71d77f31d575/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27f09853f2eae74adcef73bfc338d9357c993ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_43d8108c5fccd910b7480c373090a8d9619a0d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_ccb71076944bae20b0f40c33686afe0ad1630510/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a2e72cf3e007b4328ed4ceb7adb2039b77b06b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/072f446c758f8a0cfb929cba3d6c18f62b0e2fc4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be6615b3ecb74655e31738b92e6dd5b24d1b7151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a630a832ffe489c6435c4a20264bbf2ceb6015c1">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5459005cd3afdc8308fb93249fbee0a63bd43e14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/0f5c8c2de0bfdd7580335473ae300b732f3f0273/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_557d675a562d3b4c52d16c8534095d33e47869d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/a6a82d14ae554922c9d291715bf3503f81abc5c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6a8e714e56ecb390269e741b053abb2496ad081/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/0f7d1287edc1730bfc38fa039f4b86ee561e2e94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6e08e521f7916cf836f98c41bd52985ea407db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/19fdbc0bcfae3b33c50df3e334766fc12491143a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15fe23c3b0827d3cac3cf0ef64ba5cad9786da76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/8f8f98b84f3b5a2c081cdc1805976ad6a078a282/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bdc59bfe3ec3dfdfa3aefe93c47b721fcaf7d21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_9d5f0177d4a93f073d96253ee71934dead06ac21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/03c7f6ce105e07bf7ba553ca5a7a4e6aa4f66fd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dca37061f8cddc65b599be953473edfd3ef71d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/3e4ba215bad4bb4e4301c8eb01b9735accac308a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bf3992bc404cfa9ec32f3c9177ef98a45f2006d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/ee91062495057642723d2fd7ae809d417fbd3ee2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3322192082c1b4304b975c9f52b82dab0b235120">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e744e4983fceb81ea0e0572e84b014e27ff32d4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikram/.android/build-cache/7f1c202bd0b9682f574ceb9419d7f2139a0c3490/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/home/vikram/Downloads/android-Geofencing-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cf128abab2fdb7d1b43ac4909da39163f3d71e6/classes.dex" />
+    </item>
+
+</items>
